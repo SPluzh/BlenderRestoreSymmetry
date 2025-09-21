@@ -3,6 +3,8 @@
 Restore Symmetry is a fork of the old **Remirror** addon for Blender.  
 Its purpose is to reestablish symmetry in a mirrored mesh after sculpting (which does not always keep perfect symmetry) or other mesh editing that disrupts symmetry, while preserving UVs.
 
+Forked from [Cyaoeu / BlenderAddons – RestoreSymmetry](https://github.com/cyaoeu/BlenderAddons/tree/master/RestoreSymmetry).
+
 ## Changes in this fork
 - Works in **Blender 4.5** (tested ✅)
 - Code updated to modern Blender API (2.80+)   
