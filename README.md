@@ -28,7 +28,7 @@ In *3D View → Object Mode* bind the operator:  `mesh.restoresymmetry`
 - Philip Lafleur — Original creator of the Remirror addon  
 - Henrik Berglund — Edits to the addon  
 - Sergey Meshkov — Edits to the addon  
-- Fork updated for Blender 4.5 — modern API fixes, UV safety, vertex feedback  
+- SPluzh - Fork updated for Blender 4.5 — modern API fixes, vertex feedback  
 
 ## License
 GPL
